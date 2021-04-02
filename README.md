@@ -4,8 +4,8 @@ For this assignment, I have applied the AdaBoost Classifier method on a dataset 
 
 For implementing the mentioned classification method, I have used Python. I have made use of two libraries in Python, namely pandas and sklearn. For using hte given libraries, we will need to first execute the following commands:
 
-sudo pip install pandas 
-sudo pip install -U scikit-learn
+1. sudo pip install pandas 
+2. sudo pip install -U scikit-learn
 
 The steps required for implementing the given classifier are:
 
